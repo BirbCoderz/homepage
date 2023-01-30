@@ -6,7 +6,11 @@ body{
  margin-right:0px;
  text-align:right;
  background-image:url(newtab.png);
- font-weight:300;
+ background-size:cover;
+ background-attachment:fixed;
+ background-position-y:30%;
+ background-repeat:no-repeat;
+ font-weight:700;
 }
 
 /* Heading */
